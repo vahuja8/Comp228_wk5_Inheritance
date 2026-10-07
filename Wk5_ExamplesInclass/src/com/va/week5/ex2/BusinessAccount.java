@@ -1,5 +1,9 @@
 package com.va.week5.ex2;
 
+/*
+ * Level 3 -- child of the parent.. 
+ * parent is child of the father..
+ */
 public class BusinessAccount extends CurrentAccount {
 
     private String businessName;

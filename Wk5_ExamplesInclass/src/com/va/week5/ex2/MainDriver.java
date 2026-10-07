@@ -45,7 +45,8 @@ public class MainDriver {
 
 		premium.displayAccount();
 		premium.calculateInterest();
-		premium.calculateRewards();
+		premium.calculateRewards();  // this is frm interface method.. that has been 
+		//implemented.. 
 		premium.displayPremiumBenefits();
 
 		// POLYMORPHISM
